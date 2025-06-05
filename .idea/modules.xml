@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/class_work_project.iml" filepath="$PROJECT_DIR$/.idea/class_work_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stful_stless_methods.iml" filepath="$PROJECT_DIR$/stful_stless_methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/stful_stless_methods_android.iml" filepath="$PROJECT_DIR$/android/stful_stless_methods_android.iml" />
     </modules>
   </component>
 </project>
